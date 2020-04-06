@@ -19,4 +19,6 @@ def using_delete(arr,word)
 end
 
 def using_delete_at(array,integer)
+  a.delete_at(2)
+end
   
