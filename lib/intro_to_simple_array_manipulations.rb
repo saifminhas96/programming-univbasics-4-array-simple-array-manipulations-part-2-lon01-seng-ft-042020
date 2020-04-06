@@ -17,3 +17,6 @@ end
 def using_delete(arr,word)
   arr.delete("Steven")
 end
+
+def using_delete_at(array,integer)
+  
